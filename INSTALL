@@ -1,0 +1,9 @@
+Building BUGO
+
+Use /bugo-qt.pro for building BUGO QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BUGO.
+
+Use src/makefile.* for building bugod,
+the intended-for-services, no-graphical-interface, reference
+implementation of BUGO.
