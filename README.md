@@ -10,6 +10,14 @@ BU-GO is an automobile common crypto-currency that aims to drive the world to a 
 https://www.facebook.com/bugoclub
 https://discord.gg/qdfjUKW
 
+
+
+😎MARKET EXCHANGE
+https://cryptohub.online/market/BUGO/
+✅trade-available
+
+🤬out-of-sync?*HIDDEN FILES "WINDOWS?/USERS/"PCNAME"/APPDATA/ROAMING/BUGO/"  bugo.conf 
+copy/paste-save
 addnode=45.63.60.243
 addnode=127.0.0.1
 addnode=80.211.25.6
