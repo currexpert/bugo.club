@@ -1,5 +1,7 @@
-http://xt3.fun/video/5b4690c58e22e-trailer
+Bu-GO💎COMMUNITY http://xt3.fun/video/5b4690c58e22e-trailer
 
+ 🚀Airdrop 
+ https://bitcointalk.org/index.php?topic=4650039
 
 Simbol:BUGO
 Coin supply:100,000,000
@@ -60,4 +62,4 @@ addnode=80.211.12.76
 addnode=5.145.102.185
 addnode=18.191.169.241
 
-http://bugo.club
+http://bugo.club👟
