@@ -2,7 +2,7 @@ Bu-GO💎COMMUNITY http://xt3.fun/video/5b4690c58e22e-trailer
 
  🚀Airdrop 
  https://bitcointalk.org/index.php?topic=4650039
-
+BU-GO BLOCK EXPLORER  http://89.35.39.96:3001/
 Simbol:BUGO
 Coin supply:100,000,000
 Masternode colateral:50,000 BUGO
