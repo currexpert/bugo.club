@@ -1,4 +1,6 @@
 http://xt3.fun/video/5b4690c58e22e-trailer
+
+
 Simbol:BUGO
 Coin supply:100,000,000
 Masternode colateral:50,000 BUGO
