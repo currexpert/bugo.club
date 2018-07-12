@@ -6,6 +6,7 @@ Masternode ROI 30node:1205%  50node:723%
 PoS interest 100.4%/year
 Darksend/Instantsend
 BU-GO is an automobile common crypto-currency that aims to drive the world to a new system of automobile digitization.
+---------------------------------------------------------------------------------------------------------------------
 https://www.facebook.com/bugoclub
 https://discord.gg/qdfjUKW
 
@@ -48,3 +49,5 @@ addnode=104.223.33.220
 addnode=80.211.12.76
 addnode=5.145.102.185
 addnode=18.191.169.241
+
+http://bugo.club
