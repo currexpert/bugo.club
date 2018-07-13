@@ -14,6 +14,7 @@ Software is available for Windows
 
 https://drive.google.com/file/d/1pvwpiQPSsnQoA_0RKmM8RjX8myMdKTOE/view?usp=sharing
 
+https://github.com/currexpert/bugo.club/releases
 
 Bu-GO💎COMMUNITY http://xt3.fun/video/5b4690c58e22e-trailer
 
