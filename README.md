@@ -2,6 +2,8 @@ TIP OF THE DAY
 ---------------------------------------------------------------------------------------------------------------------
 SETUP MASTERNODE
 
+http://bugo.club/setup_masternode.php?masternode=Setup+Masternode
+
 Download Wallet 
 ---------------------------------------------------------------------------------------------------------------------
 Software is available for Windows
