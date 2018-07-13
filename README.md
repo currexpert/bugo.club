@@ -1,3 +1,7 @@
+ 🚀Airdrop 
+ https://bitcointalk.org/index.php?topic=4650039
+
+
 TIP OF THE DAY
 ---------------------------------------------------------------------------------------------------------------------
 SETUP MASTERNODE
@@ -13,9 +17,6 @@ https://drive.google.com/file/d/1pvwpiQPSsnQoA_0RKmM8RjX8myMdKTOE/view?usp=shari
 
 Bu-GO💎COMMUNITY http://xt3.fun/video/5b4690c58e22e-trailer
 
- 🚀Airdrop 
- https://bitcointalk.org/index.php?topic=4650039
- 
 BU-GO BLOCK EXPLORER  http://89.35.39.96:3001/
 
 Simbol:BUGO
