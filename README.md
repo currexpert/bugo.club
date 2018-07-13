@@ -1,3 +1,8 @@
+Download Wallet 
+Software is available for Windows
+https://drive.google.com/file/d/1pvwpiQPSsnQoA_0RKmM8RjX8myMdKTOE/view?usp=sharing
+
+
 Bu-GO💎COMMUNITY http://xt3.fun/video/5b4690c58e22e-trailer
 
  🚀Airdrop 
@@ -64,4 +69,4 @@ addnode=80.211.12.76
 addnode=5.145.102.185
 addnode=18.191.169.241
 
-http://bugo.club👟
+http://bugo.club 👟
