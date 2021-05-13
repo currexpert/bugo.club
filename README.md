@@ -11,8 +11,7 @@ Darksend/Instantsend
 
 
 https://bitcointalk.org/index.php?topic=4650039.0
-TIP OF THE DAY
-SETUP MASTERNODE
+
 
 
 THE CRYPTOCURRENCY FOR YOU
@@ -23,7 +22,7 @@ available on
 
 *( http://www.knolix.com/54e278bcda45e/ )
 
-x) fiberchange.com/market/FBC-BUGO
+x) http://www.fiberchange.com/market/FBC-BUGO
 
 
 
@@ -39,16 +38,18 @@ https://coinlib.io/coin/BUGO/BUGO
 
 
 
-
-
+TIP OF THE DAY
+SETUP MASTERNODE
+-----------------------------
 start.bat
 -----------------------------
 https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FcVmJu03.png&t=625&c=nYW2mdDX4VzvVQ
-🤬out-of-sync?*HIDDEN FILES "WINDOWS?/USERS/"PCNAME"/APPDATA/ROAMING/BUGO/" bugo.conf copy/paste-save
+-----------------------------
+
+
+
 https://support.microsoft.com/en-us/help/14201/windows-show-hidden-files
-
-
-
+🤬out-of-sync?*HIDDEN FILES "WINDOWS?/USERS/"PCNAME"/APPDATA/ROAMING/BUGO/" bugo.conf copy/paste-save
 lastgetpeerinfo [13.05.2021]
 
 addnode=164.68.113.252
