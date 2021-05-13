@@ -50,6 +50,12 @@ https://ip.bitcointalk.org/?u=https%3A%2F%2Fi.imgur.com%2FcVmJu03.png&t=625&c=nY
 
 https://support.microsoft.com/en-us/help/14201/windows-show-hidden-files
 🤬out-of-sync?*HIDDEN FILES "WINDOWS?/USERS/"PCNAME"/APPDATA/ROAMING/BUGO/" bugo.conf copy/paste-save
+
+
+
+
+
+
 lastgetpeerinfo [13.05.2021]
 ---------------------------------------------------------------------------------------
 addnode=164.68.113.252
