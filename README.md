@@ -22,19 +22,10 @@ available on
 
 *( http://www.knolix.com/54e278bcda45e/ )
 
-x) http://www.fiberchange.com/market/FBC-BUGO
-
-
 
 
 #DOWNLOAD WALLET
 https://github.com/currexpert/bugo.club/releases
-
-
-
-✅BU-GO automobile digitization.
-BU-GO  price, charts and detailed metrics
-https://coinlib.io/coin/BUGO/BUGO
 
 
 
@@ -52,26 +43,8 @@ https://support.microsoft.com/en-us/help/14201/windows-show-hidden-files
 🤬out-of-sync?*HIDDEN FILES "WINDOWS?/USERS/"PCNAME"/APPDATA/ROAMING/BUGO/" bugo.conf copy/paste-save
 
 
-
-
-
-
-lastgetpeerinfo [13.05.2021]
----------------------------------------------------------------------------------------
-addnode=164.68.113.252
-addnode=93.15.142.74
-addnode=1.241.249.166
-addnode=144.91.104.184
-addnode=173.249.49.248
-
-
-
-
-
-oldgetpeerinfo.
-----------------------------------------------------------
-
-
+/appdata/bugo/bugo.conf
+-----------------------------
 addnode=149.102.146.220
 
 
